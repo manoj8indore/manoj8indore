@@ -1,4 +1,4 @@
-![logo](https://github.com/Nevaloss-technologies/Nevaloss-technologies/blob/main/nevaloss_banner.png)
+![logo](https://github.com/manoj8indore/manoj8indore/blob/main/inner_banner.jpg)
 <h1 align="center">Hi 👋, I'm Manoj Mishra</h1>
 <h3 align="center">A passionate Electronics & Embedded Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://lh5.googleusercontent.com/proxy/7K31c1JhOrjlRLJNGqjm7A5x1riuv47ThCuwSL4rhXK2GAT1WW8adUr2eMCIroguLb8g9Fsystk">
