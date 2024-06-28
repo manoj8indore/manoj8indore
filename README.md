@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nevaloss-technologies/Nevaloss-technologies/blob/main/nevaloss_banner.png)
 <h1 align="center">Hi 👋, I'm Manoj Mishra</h1>
 <h3 align="center">A passionate Electronics & Embedded Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://mardefronteira.wordpress.com/wp-content/uploads/2018/09/pcomp-lab-2.gif">
+<img align="right" alt="coding" width="400" src="https://lh5.googleusercontent.com/proxy/7K31c1JhOrjlRLJNGqjm7A5x1riuv47ThCuwSL4rhXK2GAT1WW8adUr2eMCIroguLb8g9Fsystk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj8indore&label=Profile%20views&color=0e75b6&style=flat" alt="manoj8indore" /> </p>
 
